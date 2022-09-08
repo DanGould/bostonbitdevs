@@ -48,3 +48,7 @@ Misc
 - [Perpetual "announcement free" DLCs with BLS signatures](https://mailmanlists.org/pipermail/dlc-dev/2022-August/000149.html) by Lloyd Fournier
 - [Fake malicious dependencies](https://twitter.com/stephenlacy/status/1554697077430505473)
 - [Fedimint development update](https://blog.blockstream.com/fedimint-update/) by Blockstream
+
+Demo
+----
+- [FROSTimint](https://github.com/llfourn/fedimint/tree/frost): See FROST threshold signing for fedimint peg-in and peg out by Nick Farrow, Lloyd Fournier, Dan Gould, and Evan Lin. Demo by Dan.
